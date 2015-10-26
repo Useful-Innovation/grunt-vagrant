@@ -9,7 +9,7 @@ module.exports = function(grunt) {
             done    = this.async();
 
         config = grunt.config("vagrant");
-        if('path' in config){
+        if(config && 'path' in config){
             cwd = config.path
         } else {
             cwd = process.cwd();

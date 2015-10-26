@@ -1,5 +1,5 @@
 {
-  "name": "grunt-box",
+  "name": "grunt-vagrant",
   "version": "1.0.0",
   "description": "Control vagrant with grunt",
   "scripts": {

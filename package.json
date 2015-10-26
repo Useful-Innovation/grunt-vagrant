@@ -1,0 +1,13 @@
+{
+  "name": "grunt-box",
+  "version": "1.0.0",
+  "description": "Control vagrant with grunt",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Salem Sallnäs <salem@gobrave.se>",
+  "license": "ISC",
+  "peerDependencies": {
+    "grunt": ">=0.4.0"
+  }
+}
